@@ -48,8 +48,6 @@ Start with [`examples/led-blink/`](examples/led-blink/) rather than immediately 
 
 ## Board Overview
 
-![Board layout](images/layout.png)
-
 
 ### Main Controller
 
@@ -70,8 +68,6 @@ Start with [`examples/led-blink/`](examples/led-blink/) rather than immediately 
 
 
 ## Hardware Features
-
-![Onboard resources](images/resources.png)
 
 The following groups are intentionally separated into processing, onboard I/O, development interfaces, and power because each has different constraints during modification or troubleshooting. Values that affect electrical safety or measurement accuracy are left as TODOs until they can be tied directly to the product metadata or schematic. This avoids turning demonstration behavior into an unsupported specification. When a new hardware revision changes any item below, update the version table and pinout at the same time.
 
@@ -106,16 +102,12 @@ The following groups are intentionally separated into processing, onboard I/O, d
 
 ## Board Dimensions
 
-![Dimensions](images/dimensions.png)
-
 
 | Mechanical item                  | Verified value                                                                                             |
 | -------------------------------- | ---------------------------------------------------------------------------------------------------------- |
 
 
 ## Pinout
-
-![Pinout diagram](images/pinout.png)
 
 
 
@@ -125,8 +117,6 @@ The following groups are intentionally separated into processing, onboard I/O, d
 
 
 ## Applications
-
-![Applications](images/applications.png)
 
 ### Electronics Education and Coursework
 
@@ -156,10 +146,6 @@ Within the documented input limits, time-domain and spectrum-oriented views can 
 
 
 ## Factory Demo
-
-![Factory demo](images/demo.gif)
-
-
 
 
 ## Repository Structure
@@ -237,8 +223,6 @@ The exact operating-system and tool-version matrix has not yet been provided, so
 
 
 ## Package Contents
-
-![Package contents](images/package.jpg)
 
 
 
